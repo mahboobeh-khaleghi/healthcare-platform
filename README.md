@@ -81,9 +81,26 @@ The platform consists of **three separate applications**:
 - Modular Design System
 
 ---
+## 🎥 Demo
 
-## 📸 Screenshots
+Two screen recordings are included in this repository to demonstrate the main flows of the application.
 
+You can find them:
+- `Create custom pre-visit forms.mp4`
+- `Manage doctor availability and schedules.mp4`
+
+These videos show the full user experience from login to core features.
+
+## 🖼️ Screenshots
+
+A set of screenshots is included in this repository to showcase the main features and UI of the application.
+
+You can find them in the project:
+
+- `clinic_broadcast_notification.jpg`
+- `Receptionist Appointment Booking.jpg`
+
+These screenshots provide a quick overview of the user interface and key functionalities across the app.
 
 ## 🚧 Project Status
 
